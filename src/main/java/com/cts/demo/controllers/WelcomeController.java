@@ -16,4 +16,7 @@ public class WelcomeController {
 	private void dummyFunction() {
 		
 	}
+		
+	private void dummy1Func(){
+	}
 }
