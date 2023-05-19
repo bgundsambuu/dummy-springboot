@@ -13,7 +13,7 @@ public class WelcomeController {
 		return "HEllo! Every One";
 	}
 	
-	private dummy1Func(){
+	private void dummy1Func(){
 	
 	}
 }
