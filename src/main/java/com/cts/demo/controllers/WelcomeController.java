@@ -12,4 +12,8 @@ public class WelcomeController {
 	public String sayHelloAction() {
 		return "HEllo! Every One";
 	}
+	
+	private dummy1Func(){
+	
+	}
 }
